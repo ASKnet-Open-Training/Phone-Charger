@@ -1,0 +1,49 @@
+
+# Tools and Materials.
+Tools
+HR
+Voltmeter 
+
+Materials
+Jump wire
+Resistors 
+Diode
+Capacitor 
+USB Female Port
+Battery 9V
+LED (Red 1.7V)
+Bread Board
+Regulator 5v
+
+## Steps.
+Understanding of the ideal on how to connect the all cricuit.
+Identifying the tools and materials to build the charger.
+Open the #ASKotek kit for the tool and materials.
+Testing the battery and resistors using the voltmeter.
+Drawing the the circuit digram for following the connection.
+Connecting the circuit.
+
+Battery. Positive and negative to power up the breadboard
+
+Resistors. Connected to the power source and the LED.
+
+LED. Positive end connected to resistors and negative end to the power source.
+
+Capacitor 10uf.   All the end connected to the power source +v to +v and -v to -v
+                          +v end connected to +v  end of regulator power input
+                            -v end connected to -v end of the regulator
+
+
+Regulator 5V. -v end connected to -v end of capacitor 100uf 
+                        +v end connected to +v end of the capacitor 100uf.
+                        
+Capacitor 100uf. +v end connected to the diode
+                             -v end connected to -v female USB port.
+
+Diode.      One end connected to +v capacitor100uf.
+                 One end connected to +v Female USB port.
+
+USB Female Port. -v connected to -v capacitor 100uf 
+                               +v connected to the diode.
+                                The end port connected to usb male charger cable.
+                                
