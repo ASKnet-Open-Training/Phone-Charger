@@ -46,4 +46,14 @@ Diode.      One end connected to +v capacitor100uf.
 USB Female Port. -v connected to -v capacitor 100uf 
                                +v connected to the diode.
                                 The end port connected to usb male charger cable.
+                               
+Testing Process.  get a male USB
+                    get a phone
+                     Move to a direction where there is sunshine
+                      Plug the male USB into the female one
+                        Plug in the other side of the USB in to the phone chaerging port
+                         Observe wheather its charging or not.
+                           If battery bars moves, that means its working.
+                             If battery bars does not move, double check your connections.
+                
                                 
